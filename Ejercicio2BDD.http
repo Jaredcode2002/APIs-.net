@@ -1,0 +1,6 @@
+@Ejercicio2BDD_HostAddress = http://localhost:5274
+
+GET {{Ejercicio2BDD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
